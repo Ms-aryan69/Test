@@ -1,0 +1,26 @@
+{
+   "token": "MTE2MjgyNzk4MDU2NTc0NTcwNg.G3m5bK.1_3t_O3u24uB52wz-U_J_E",
+   "prefix": "?",
+   "ownerIDS": [
+      "442355791412854784"
+   ],
+   "status": {
+      "text": "{prefix}help | played {songsplayed} Songs on {guildcount} Guilds | Support: discord.gg/milrato",
+      "text2": "By: milrato.dev",
+      "type": "PLAYING",
+      "url": "https://twitch.tv/#"
+   },
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "localhost",
+            "port": 2333,
+            "password": "youshallnotpass"
+         }
+      ]
+   },
+   "spotify": {
+      "clientID": "",
+      "clientSecret": ""
+   }
+}
